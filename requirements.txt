@@ -1,0 +1,10 @@
+Flask 
+Gunicorn
+scikit-learn
+flask-cors
+sentence-transformers
+better-profanity
+supabase
+torch  # Required for sentence-transformers
+numpy # Required for sentence-transformers
+requests  # Required for Supabase and general HTTP requests

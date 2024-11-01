@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Bot GAIL</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <img src="{{ url_for('static', filename='images/ava.png') }}" alt="avatar" class="header-avatar">
+            <h1 class="header-title">CHAT BOT GAIL</h1>
+        </div>
+    </header> 
+    <div class="chatbot-container">
+        <div class="content" id="chat-content">
+            <!-- Chat content will go here -->
+        </div>
+        <div class="chat-input">
+            <div class="input-wrapper">
+                <input type="text" id="chat-input-text" placeholder="How can I help you?">
+                <button class="button-icon" id="send-button">
+                    <img src="{{ url_for('static', filename='images/send.png') }}" alt="send">
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+</body>
+</html>

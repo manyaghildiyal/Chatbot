@@ -1,0 +1,581 @@
+{
+    "knowledge_base": [
+        {
+            "category": "HR Policies",
+            "entries": [
+                {"question": "What are the leave policies?", "answer": "The company offers 15 days of paid leave, 7 days of sick leave, and 10 days of casual leave per year. Please refer to the HR portal for detailed policies."},
+                {"question": "What benefits are available to employees?", "answer": "Employees are entitled to health insurance, retirement benefits, annual bonuses, and wellness programs. Detailed information can be found in the employee handbook."},
+                {"question": "How is payroll processed?", "answer": "Payroll is processed on the last working day of each month. Salaries are directly credited to employees' bank accounts."},
+                {"question": "What is the recruitment process?", "answer": "The recruitment process involves an initial screening, followed by technical and HR interviews. Successful candidates receive offer letters within two weeks."},
+                {"question": "What are the employee guidelines?", "answer": "Employee guidelines include code of conduct, dress code, and attendance policies. These are detailed in the HR section of the intranet."},
+                {"question": "What is the policy for maternity leave?", "answer": "Maternity leave is granted for 26 weeks. Additional provisions are available for special cases such as high-risk pregnancies."},
+                {"question": "What is the policy for paternity leave?", "answer": "Paternity leave is available for 15 days. It can be availed within 6 months of the child's birth."},
+                {"question": "How do I apply for a leave extension?", "answer": "To apply for a leave extension, submit a leave extension request through the HR portal with a valid reason and supporting documents."},
+                {"question": "What is the policy for work-from-home arrangements?", "answer": "Work-from-home arrangements are subject to departmental approval. Employees need to submit a request through their manager."},
+                {"question": "Are there any educational benefits for employees?", "answer": "Yes, the company offers educational assistance for courses related to your job role. Refer to the education assistance policy for details."},
+                {"question": "How can I access my pay slips?", "answer": "Pay slips can be accessed through the employee portal. They are available for download on the 1st of every month."},
+                {"question": "What is the policy on performance bonuses?", "answer": "Performance bonuses are awarded based on individual and company performance. Criteria and guidelines are detailed in the bonus policy document."},
+                {"question": "What is the process for employee grievances?", "answer": "Employees can file grievances through the HR portal or contact the grievance redressal committee directly."},
+                {"question": "What are the policies on employee conduct?", "answer": "Employee conduct policies cover professional behavior, ethical standards, and disciplinary actions. These are outlined in the code of conduct."},
+                {"question": "How can I apply for a sabbatical?", "answer": "Applications for sabbaticals should be submitted to HR with a detailed plan and reasons. Approval is subject to departmental needs."},
+                {"question": "What is the policy on accidental insurance?", "answer": "Employees are covered under accidental insurance as part of the company's benefits package. Details are available in the insurance policy document."},
+                {"question": "How do I update my personal information?", "answer": "To update personal information, log in to the employee portal and navigate to the personal details section."},
+                {"question": "What is the policy on employee recognition?", "answer": "Employee recognition programs include awards for outstanding performance, long service, and innovative contributions."},
+                {"question": "Are there any wellness programs available?", "answer": "Yes, wellness programs include health check-ups, fitness classes, and mental health support. Information is available on the wellness portal."},
+                {"question": "What are the policies for employee transfers?", "answer": "Policies for employee transfers include eligibility criteria, application procedures, and transfer timelines. Details are available in the transfer policy document."},
+                {"question": "How do I file a complaint about harassment?", "answer": "Complaints about harassment should be reported through the HR portal or directly to the anti-harassment committee."},
+                {"question": "What is the policy on retirement benefits?", "answer": "Retirement benefits include pension plans, gratuity, and provident fund contributions. Detailed information can be found in the retirement benefits guide."},
+                {"question": "How can I request a certificate of employment?", "answer": "Request a certificate of employment through the HR portal or contact the HR department directly."},
+                {"question": "What are the policies on employee travel?", "answer": "Employee travel policies cover travel allowances, booking procedures, and reimbursement guidelines. Refer to the travel policy document for details."},
+                {"question": "What is the policy on working hours?", "answer": "Standard working hours are from 9 AM to 6 PM, Monday to Friday. Flexibility may be available based on departmental needs."},
+                {"question": "What is the policy for employee offboarding?", "answer": "Offboarding procedures include exit interviews, return of company property, and final settlement. Details are outlined in the offboarding checklist."},
+                {"question": "How do I apply for a scholarship?", "answer": "Scholarship applications should be submitted through the education assistance program. Criteria and deadlines are available on the program portal."},
+                {"question": "What is the policy on annual leave carryover?", "answer": "Annual leave carryover policies allow employees to carry over unused leave up to a specified limit. Refer to the leave policy for details."},
+                {"question": "What is the policy on overtime pay?", "answer": "Overtime pay is provided for hours worked beyond the standard working hours, as per company policy and labor laws."},
+                {"question": "How do I enroll in the company's insurance plan?", "answer": "Enroll in the insurance plan through the benefits portal. Information on plan options and coverage is available there."},
+                {"question": "What are the policies on employee promotions?", "answer": "Promotion policies cover eligibility criteria, application processes, and review procedures. Details are available in the promotion policy document."},
+                {"question": "How can I access the employee handbook?", "answer": "The employee handbook can be accessed through the HR portal or requested from the HR department."},
+                {"question": "What is the policy on employee relocations?", "answer": "Relocation policies include assistance with moving expenses and housing. Details are outlined in the relocation policy document."},
+                {"question": "How do I request a leave of absence?", "answer": "Submit a leave of absence request through the HR portal, providing the reason and duration of leave."},
+                {"question": "What is the policy on employee discipline?", "answer": "Disciplinary policies cover procedures for addressing violations of company rules and regulations. Refer to the disciplinary action policy for details."},
+                {"question": "How can I update my bank account details?", "answer": "Update bank account details through the payroll section of the employee portal or contact HR directly."},
+                {"question": "What are the policies on work-from-home equipment?", "answer": "Work-from-home equipment policies cover the provision, maintenance, and return of company equipment used for remote work."},
+                {"question": "How do I apply for educational leave?", "answer": "Apply for educational leave by submitting a request through the HR portal with details of the course and duration."},
+                {"question": "What is the policy on employee confidentiality?", "answer": "Confidentiality policies cover the protection of sensitive company information and employee privacy. Details are in the confidentiality agreement."},
+                {"question": "How do I request a salary advance?", "answer": "Request a salary advance through the HR portal or contact the payroll department with a valid reason."},
+                {"question": "What are the policies on annual performance reviews?", "answer": "Annual performance reviews are conducted to evaluate employee performance and set goals. The process and criteria are detailed in the performance review policy."},
+                {"question": "How can I access my employment contract?", "answer": "Employment contracts can be accessed through the employee portal or obtained from the HR department."},
+                {"question": "What is the policy on company-sponsored training?", "answer": "Company-sponsored training includes opportunities for professional development and skill enhancement. Details are available in the training policy."},
+                {"question": "How do I apply for a job transfer?", "answer": "Apply for a job transfer by submitting a request through the HR portal and following the transfer application process."},
+                {"question": "What are the policies on employee wellness leave?", "answer": "Wellness leave policies provide additional leave days for health-related issues. Details are available in the leave policy document."},
+                {"question": "How can I get assistance with work-life balance?", "answer": "Work-life balance assistance is available through employee support programs and counseling services."},
+                {"question": "What is the policy on using personal devices for work?", "answer": "Policies on using personal devices for work cover security and data protection. Details are available in the IT policy document."},
+                {"question": "How do I report a workplace safety issue?", "answer": "Report workplace safety issues through the safety portal or contact the safety officer directly."},
+                {"question": "What is the policy on employee engagement activities?", "answer": "Employee engagement activities include team-building events and social gatherings. Information is available on the HR portal."},
+                {"question": "How do I apply for a research grant?", "answer": "Apply for research grants through the company's research funding program. Details and application forms are available on the program portal."},
+                {"question": "What are the policies on employee discounts?", "answer": "Employee discounts are available on certain company products and services. Details are provided in the employee discount policy document."},
+                {"question": "How do I access the company's intranet?", "answer": "Access the company's intranet using your employee credentials. Instructions are provided on the IT support portal."},
+                {"question": "What is the policy on employee leave encashment?", "answer": "Leave encashment policies allow employees to encash unused leave days under certain conditions. Refer to the leave policy for details."},
+                {"question": "How do I submit a suggestion or feedback?", "answer": "Submit suggestions or feedback through the feedback portal or contact the HR department directly."},
+                {"question": "What is the policy on employee travel allowances?", "answer": "Travel allowances cover expenses incurred during official travel. Details on claim procedures and limits are available in the travel policy document."},
+                {"question": "How do I apply for an employee loan?", "answer": "Apply for an employee loan through the HR portal with the required documentation and justification."},
+                {"question": "What are the policies on employee health check-ups?", "answer": "Employee health check-ups are provided periodically. Details on scheduling and coverage are available on the wellness portal."},
+                {"question": "How do I request an employment verification letter?", "answer": "Request an employment verification letter through the HR portal or by contacting HR directly."},
+                {"question": "What is the policy on working during holidays?", "answer": "Working during holidays is subject to managerial approval. Employees working on holidays are eligible for additional compensation."},
+                {"question": "How do I update my emergency contact information?", "answer": "Update emergency contact information through the employee portal or contact HR directly."},
+                {"question": "What are the policies on employee relocation assistance?", "answer": "Relocation assistance includes support for moving expenses and settling-in allowances. Details are provided in the relocation policy document."},
+                {"question": "How can I access training materials?", "answer": "Training materials are available on the training portal or can be obtained from the training department."},
+                {"question": "What is the policy on employee social media use?", "answer": "Social media use policies cover guidelines for representing the company online. Refer to the social media policy document for details."},
+                {"question": "How do I apply for a scholarship or educational grant?", "answer": "Apply for scholarships or educational grants through the education assistance program, following the application guidelines."},
+                {"question": "What are the policies on employee retirement planning?", "answer": "Retirement planning policies include financial planning assistance and retirement benefits. Details are available in the retirement planning guide."},
+                {"question": "How do I report a workplace accident?", "answer": "Report workplace accidents through the safety portal or contact the safety officer immediately."},
+                {"question": "What is the policy on employee reimbursement?", "answer": "Reimbursement policies cover expenses incurred during work-related activities. Submit reimbursement claims through the finance portal."},
+                {"question": "How can I access the company's legal resources?", "answer": "Access legal resources through the company's legal department or intranet portal."},
+                {"question": "What is the policy on remote work equipment support?", "answer": "Remote work equipment support includes troubleshooting and maintenance assistance. Contact IT support for help with equipment issues."},
+                {"question": "How do I apply for a family leave?", "answer": "Apply for family leave through the HR portal with supporting documentation and reasons for the leave."},
+                {"question": "What are the policies on employee recognition awards?", "answer": "Employee recognition awards include certificates and monetary rewards for outstanding performance. Details are available on the HR portal."},
+                {"question": "How do I access my employment benefits?", "answer": "Access employment benefits information through the benefits portal or contact HR for assistance."},
+                {"question": "What is the policy on employee safety training?", "answer": "Employee safety training includes mandatory and optional courses. Information on training schedules and requirements is available on the safety portal."},
+                {"question": "How do I request a change in job role?", "answer": "Request a change in job role by submitting a formal request through the HR portal and discussing with your manager."},
+                {"question": "What are the policies on employee mentoring programs?", "answer": "Employee mentoring programs pair employees with mentors for career development. Details are available in the mentoring program guide."},
+                {"question": "How do I access company-sponsored healthcare services?", "answer": "Access company-sponsored healthcare services through the healthcare portal or contact the benefits department."},
+                {"question": "What is the policy on employee home office setup?", "answer": "Policies on home office setup cover equipment provision and ergonomic guidelines. Refer to the home office policy for details."},
+                {"question": "How do I request a work schedule change?", "answer": "Request a work schedule change by submitting a formal request through the HR portal and obtaining managerial approval."},
+                {"question": "What are the policies on employee job rotations?", "answer": "Job rotation policies provide opportunities for employees to gain experience in different roles. Details are available in the job rotation policy document."},
+                {"question": "How can I access the company's diversity and inclusion programs?", "answer": "Access diversity and inclusion programs through the HR portal or contact the diversity office for information."},
+                {"question": "What is the policy on employee travel safety?", "answer": "Travel safety policies cover guidelines for safe travel and emergency procedures. Refer to the travel safety policy document for details."},
+                {"question": "How do I apply for a work permit or visa?", "answer": "Apply for work permits or visas through the HR department with the necessary documentation and approvals."},
+                {"question": "What are the policies on employee savings plans?", "answer": "Employee savings plans include options for saving and investment. Details are available in the savings plan policy document."},
+                {"question": "How do I request a company vehicle?", "answer": "Request a company vehicle by submitting a formal request through the HR portal and providing justification for the need."},
+                {"question": "What is the policy on employee sabbaticals?", "answer": "Sabbatical policies cover eligibility, application procedures, and duration. Details are available in the sabbatical policy document."},
+                {"question": "How do I access company-sponsored childcare services?", "answer": "Access company-sponsored childcare services through the benefits portal or contact HR for assistance."},
+                {"question": "What are the policies on employee telecommuting?", "answer": "Telecommuting policies cover eligibility, equipment, and guidelines for working from home. Refer to the telecommuting policy document."},
+                {"question": "How do I apply for a project or task assignment?", "answer": "Apply for project or task assignments by submitting a request through the project management portal or contacting your manager."},
+                {"question": "What is the policy on employee annual leave accrual?", "answer": "Annual leave accrual policies cover how leave days are accumulated and carried over. Details are available in the leave policy document."},
+                {"question": "How do I report a violation of company policies?", "answer": "Report violations through the HR portal or contact the compliance officer directly."},
+                {"question": "What are the policies on employee health and safety?", "answer": "Health and safety policies cover workplace safety measures and health programs. Information is available on the safety portal."},
+                {"question": "How do I request a training or development program?", "answer": "Request training or development programs through the learning portal or contact the training department for options."},
+                {"question": "What is the policy on employee conflict resolution?", "answer": "Conflict resolution policies provide procedures for addressing and resolving workplace conflicts. Details are available in the conflict resolution policy document."},
+                {"question": "How do I access the company's financial planning resources?", "answer": "Access financial planning resources through the finance department or company intranet."},
+                {"question": "What are the policies on employee work-life balance?", "answer": "Work-life balance policies cover flexible work arrangements and support programs. Information is available on the HR portal."},
+                {"question": "How do I apply for a research and development grant?", "answer": "Apply for research and development grants through the R&D department with detailed project proposals."},
+                {"question": "What is the policy on employee performance metrics?", "answer": "Performance metrics policies outline criteria and evaluation methods for employee performance. Refer to the performance metrics guide."},
+                {"question": "How do I request a change in work location?", "answer": "Request a change in work location by submitting a formal request through the HR portal and obtaining necessary approvals."},
+                {"question": "What are the policies on employee career development?", "answer": "Career development policies provide guidelines for career growth and advancement. Details are available in the career development guide."},
+                {"question": "How do I apply for a professional certification sponsorship?", "answer": "Apply for professional certification sponsorship through the education assistance program with supporting documentation."},
+                {"question": "What is the policy on employee innovation initiatives?", "answer": "Innovation initiatives policies support employee-driven projects and ideas. Information is available in the innovation policy document."},
+                {"question": "How do I access the company's mentorship program?", "answer": "Access the mentorship program through the HR portal or contact the mentoring office for details."},
+                {"question": "What are the policies on employee work-from-home stipends?", "answer": "Work-from-home stipends cover expenses for home office setups. Details are available in the stipend policy document."},
+                {"question": "How do I apply for a special project assignment?", "answer": "Apply for special project assignments through the project management portal or discuss with your manager."},
+                {"question": "What is the policy on employee job security?", "answer": "Job security policies cover guidelines for employment stability and redundancy procedures. Refer to the job security policy document."},
+                {"question": "How do I access company-sponsored wellness programs?", "answer": "Access wellness programs through the wellness portal or contact the wellness department for information."},
+                {"question": "What are the policies on employee professional development?", "answer": "Professional development policies include opportunities for skill enhancement and training. Details are available in the professional development guide."},
+                {"question": "How do I request an internal job transfer?", "answer": "Request an internal job transfer by submitting a formal request through the HR portal and discussing with your manager."},
+                {"question": "What is the policy on employee time-off requests?", "answer": "Time-off request policies outline procedures for requesting and approving time off. Information is available on the HR portal."},
+                {"question": "How do I access the company's financial benefits?", "answer": "Access financial benefits information through the benefits portal or contact the finance department for details."},
+                {"question": "What are the policies on employee skill assessments?", "answer": "Skill assessment policies cover evaluation methods and frequency. Details are available in the skill assessment guide."},
+                {"question": "How do I apply for a departmental transfer?", "answer": "Apply for a departmental transfer by submitting a request through the HR portal and obtaining necessary approvals."},
+                {"question": "What is the policy on employee annual performance reviews?", "answer": "Annual performance review policies outline the review process, criteria, and feedback mechanisms. Details are available in the performance review guide."},
+                {"question": "How do I request a job role change?", "answer": "Request a job role change by submitting a formal request through the HR portal and discussing with your manager."},
+                {"question": "What are the policies on employee engagement activities?", "answer": "Employee engagement activities include team-building events and social gatherings. Information is available in the engagement activities guide."},
+                {"question": "How do I access the company's employee assistance program?", "answer": "Access the employee assistance program through the benefits portal or contact HR for information."},
+                {"question": "What is the policy on employee overtime pay?", "answer": "Overtime pay policies cover compensation rates and approval procedures for working beyond regular hours. Refer to the overtime policy document."}
+            ]
+        },
+        {
+            "category": "IT Support",
+            "entries": [
+                {"question": "How do I reset my password?", "answer": "To reset your password, go to the IT support portal, click on 'Forgot Password,' and follow the instructions sent to your registered email."},
+                {"question": "How do I set up my email on a new device?", "answer": "Download the email client, enter your company email and password, and follow the setup guide available on the IT support portal."},
+                {"question": "What should I do if my computer won't start?", "answer": "Check if the power cable is securely connected, press the power button for 10 seconds, and try restarting. If the problem persists, contact IT support."},
+                {"question": "How do I install company software?", "answer": "Software installations can be done via the software center on your device. Select the required software and click 'Install'."},
+                {"question": "How do I access the company VPN?", "answer": "To access the company VPN, install the VPN client from the IT support portal and follow the configuration instructions provided."},
+                {"question": "What should I do if I encounter a network issue?", "answer": "If you encounter a network issue, check your connection cables and router. If the issue persists, contact IT support for assistance."},
+                {"question": "How do I set up multi-factor authentication?", "answer": "To set up multi-factor authentication, go to the security settings on the IT support portal and follow the steps to link your authentication device."},
+                {"question": "How can I get help with a software installation problem?", "answer": "For software installation problems, contact IT support or check the troubleshooting guide on the IT support portal for solutions."},
+                {"question": "How do I report a security issue?", "answer": "Report security issues immediately to IT support through the security incident reporting portal or contact the security team directly."},
+                {"question": "What is the procedure for requesting new hardware?", "answer": "Request new hardware by filling out the hardware request form on the IT support portal and provide justification for the request."},
+                {"question": "How do I access remote desktop support?", "answer": "To access remote desktop support, use the remote support tool available on the IT support portal and follow the instructions to connect with a support agent."},
+                {"question": "How do I update my software to the latest version?", "answer": "Update your software by checking for updates through the software center on your device or follow the update instructions provided by IT support."},
+                {"question": "What should I do if I lose access to a critical application?", "answer": "If you lose access to a critical application, contact IT support immediately and provide details about the issue for prompt resolution."},
+                {"question": "How do I configure email filters?", "answer": "Configure email filters by accessing the email settings in your client and following the instructions for creating and managing filters."},
+                {"question": "How do I handle a phishing email?", "answer": "Do not open or click on any links in a phishing email. Report it to IT support and delete the email from your inbox."},
+                {"question": "What is the policy on personal device use at work?", "answer": "Personal device use at work is governed by the company's IT policy. Refer to the IT policy document for guidelines on acceptable use."},
+                {"question": "How do I back up my data?", "answer": "Back up your data by using the company-provided backup tools or services available on the IT support portal."},
+                {"question": "What should I do if I forget my username?", "answer": "If you forget your username, use the 'Forgot Username' option on the login page or contact IT support for assistance."},
+                {"question": "How do I check the status of a service request?", "answer": "Check the status of a service request by logging into the IT support portal and viewing the request status under 'My Requests'."},
+                {"question": "How do I install security updates?", "answer": "Install security updates by following the instructions provided on the IT support portal or through the update notifications on your device."},
+                {"question": "How do I set up email on my mobile device?", "answer": "To set up email on your mobile device, follow the configuration guide provided on the IT support portal for your specific device type."},
+                {"question": "What is the procedure for reporting hardware issues?", "answer": "Report hardware issues by submitting a hardware issue request through the IT support portal and providing detailed information about the problem."},
+                {"question": "How do I access the company's IT support resources?", "answer": "Access IT support resources through the IT support portal, where you can find documentation, FAQs, and contact information for support teams."},
+                {"question": "How do I resolve connectivity issues with company applications?", "answer": "Resolve connectivity issues by checking your network connection and restarting the application. If the problem persists, contact IT support."},
+                {"question": "What should I do if I encounter a software crash?", "answer": "If you encounter a software crash, report the issue to IT support with details about the crash and any error messages received."},
+                {"question": "How do I update my device's operating system?", "answer": "Update your device's operating system by following the update instructions available on the IT support portal or through system settings."},
+                {"question": "How do I request access to a new application?", "answer": "Request access to a new application by filling out the access request form on the IT support portal and providing necessary approvals."},
+                {"question": "What should I do if I receive a suspicious email?", "answer": "Do not open or respond to suspicious emails. Report them to IT support and delete them from your inbox."},
+                {"question": "How do I troubleshoot printer issues?", "answer": "Troubleshoot printer issues by checking connections, paper jams, and ink levels. For persistent problems, contact IT support."},
+                {"question": "How do I access company files remotely?", "answer": "Access company files remotely through the secure file access portal or using the remote desktop tool provided by IT support."},
+                {"question": "What is the policy on software usage licenses?", "answer": "Software usage licenses are governed by the company's software policy. Refer to the policy document for details on compliance and usage."},
+                {"question": "How do I set up a company-approved video conferencing tool?", "answer": "Set up a company-approved video conferencing tool by following the installation and configuration guide provided on the IT support portal."},
+                {"question": "How do I request a software upgrade?", "answer": "Request a software upgrade by submitting a request through the IT support portal and specifying the required upgrade details."},
+                {"question": "What should I do if I encounter a system error?", "answer": "Report system errors to IT support with details about the error message and steps leading up to the issue for a quick resolution."},
+                {"question": "How do I manage my user account settings?", "answer": "Manage your user account settings through the account settings page on the IT support portal or contact IT support for assistance."},
+                {"question": "How do I configure my email signature?", "answer": "Configure your email signature through the email settings on your client or follow the instructions provided by IT support."},
+                {"question": "How do I request access to a shared drive?", "answer": "Request access to a shared drive by submitting an access request through the IT support portal with necessary approvals."},
+                {"question": "What is the procedure for reporting a data breach?", "answer": "Report data breaches immediately to IT support and follow the data breach response procedures outlined in the security policy."},
+                {"question": "How do I set up a new user account?", "answer": "Set up a new user account by submitting a request through the IT support portal and providing necessary information and approvals."},
+                {"question": "How do I access training materials for new software?", "answer": "Access training materials for new software through the training portal or contact the IT training department for resources."},
+                {"question": "What is the policy on using personal software at work?", "answer": "The use of personal software at work is regulated by the company's IT policy. Refer to the policy document for guidelines on acceptable use."},
+                {"question": "How do I troubleshoot email delivery issues?", "answer": "Troubleshoot email delivery issues by checking email settings and spam filters. Contact IT support if issues persist."},
+                {"question": "What should I do if my device is lost or stolen?", "answer": "Report a lost or stolen device immediately to IT support and follow the company's procedures for securing data and replacing the device."},
+                {"question": "How do I request additional storage space?", "answer": "Request additional storage space by submitting a request through the IT support portal and providing justification for the need."},
+                {"question": "How do I configure network printer settings?", "answer": "Configure network printer settings by following the setup instructions provided on the IT support portal or contact IT support for assistance."},
+                {"question": "What is the procedure for updating software licenses?", "answer": "Update software licenses by contacting IT support with details about the licenses that need updating and following their instructions."},
+                {"question": "How do I access company resources from a mobile device?", "answer": "Access company resources from a mobile device by using the mobile apps provided and following the setup instructions on the IT support portal."},
+                {"question": "How do I report an issue with a company website?", "answer": "Report issues with a company website to IT support and provide details about the problem encountered for prompt resolution."},
+                {"question": "How do I configure firewall settings on my device?", "answer": "Configure firewall settings by following the instructions provided on the IT support portal or contact IT support for assistance."},
+                {"question": "How do I request software for a new project?", "answer": "Request software for a new project by filling out the software request form on the IT support portal and providing project details."},
+                {"question": "What should I do if I encounter slow internet speed?", "answer": "Check your network connection and restart your router. If the problem persists, contact IT support for further assistance."},
+                {"question": "How do I set up a company-approved antivirus software?", "answer": "Set up company-approved antivirus software by following the installation guide provided on the IT support portal."},
+                {"question": "How do I manage application permissions?", "answer": "Manage application permissions through the settings on your device or follow the instructions provided by IT support."},
+                {"question": "How do I handle a hardware malfunction?", "answer": "Report hardware malfunctions to IT support with details about the issue and follow their instructions for repair or replacement."},
+                {"question": "What is the procedure for requesting a software license renewal?", "answer": "Request a software license renewal by contacting IT support with details about the license and follow their instructions for renewal."},
+                {"question": "How do I configure remote access settings?", "answer": "Configure remote access settings by following the instructions provided on the IT support portal or contact IT support for assistance."},
+                {"question": "How do I troubleshoot application crashes?", "answer": "Troubleshoot application crashes by checking for updates and restarting the application. If the issue persists, contact IT support."},
+                {"question": "How do I request a new software installation?", "answer": "Request a new software installation by filling out the software request form on the IT support portal and providing necessary approvals."},
+                {"question": "How do I set up a new workstation?", "answer": "Set up a new workstation by following the installation guide provided by IT support and configuring your device according to company standards."},
+                {"question": "What should I do if I encounter a system update failure?", "answer": "Report system update failures to IT support with details about the error message and steps leading up to the issue."},
+                {"question": "How do I manage my IT support tickets?", "answer": "Manage your IT support tickets by logging into the IT support portal and viewing or updating the status of your open tickets."},
+                {"question": "How do I access company cloud storage?", "answer": "Access company cloud storage through the cloud storage portal or using the cloud storage application provided by IT support."},
+                {"question": "How do I request technical support for a new project?", "answer": "Request technical support for a new project by submitting a support request through the IT support portal and providing project details."},
+                {"question": "What is the policy on using external storage devices?", "answer": "The use of external storage devices is regulated by the company's IT policy. Refer to the policy document for guidelines on acceptable use."},
+                {"question": "How do I configure security settings on my device?", "answer": "Configure security settings on your device by following the instructions provided by IT support or through the device's security settings."},
+                {"question": "How do I request a software upgrade?", "answer": "Request a software upgrade by filling out the upgrade request form on the IT support portal and providing necessary approvals."},
+                {"question": "What should I do if I encounter an issue with company software?", "answer": "Report issues with company software to IT support with details about the problem and follow their instructions for resolution."},
+                {"question": "How do I manage my IT support profile?", "answer": "Manage your IT support profile by logging into the IT support portal and updating your personal information and preferences."},
+                {"question": "How do I access company IT policies?", "answer": "Access company IT policies through the IT support portal or the company intranet where policies are published."},
+                {"question": "How do I handle a software compatibility issue?", "answer": "Report software compatibility issues to IT support with details about the software and the compatibility problem encountered."},
+                {"question": "How do I set up a company-approved security solution?", "answer": "Set up a company-approved security solution by following the installation and configuration instructions provided by IT support."},
+                {"question": "What is the procedure for reporting a software bug?", "answer": "Report software bugs to IT support with details about the bug, steps to reproduce it, and any error messages received."},
+                {"question": "How do I configure email security settings?", "answer": "Configure email security settings through the email client settings or follow the instructions provided by IT support."},
+                {"question": "How do I request a new IT asset?", "answer": "Request a new IT asset by filling out the IT asset request form on the IT support portal and providing necessary approvals."},
+                {"question": "How do I handle a network outage?", "answer": "Report network outages to IT support and provide details about the outage for prompt resolution and investigation."},
+                {"question": "How do I manage user permissions for shared files?", "answer": "Manage user permissions for shared files through the file sharing settings or contact IT support for assistance."},
+                {"question": "How do I request additional IT resources for a project?", "answer": "Request additional IT resources for a project by submitting a request through the IT support portal with project details and justification."},
+                {"question": "What should I do if I encounter issues with company email?", "answer": "Report issues with company email to IT support and provide details about the problem encountered for resolution."},
+                {"question": "How do I set up a company-approved collaboration tool?", "answer": "Set up a company-approved collaboration tool by following the installation and configuration guide provided by IT support."},
+                {"question": "How do I access company IT training materials?", "answer": "Access company IT training materials through the training portal or contact IT support for resources and guidance."},
+                {"question": "How do I handle issues with company network services?", "answer": "Report issues with company network services to IT support with details about the problem and follow their instructions for resolution."},
+                {"question": "What is the procedure for upgrading network infrastructure?", "answer": "Upgrade network infrastructure by following the network upgrade process outlined by IT support and obtaining necessary approvals."},
+                {"question": "How do I manage my IT support requests?", "answer": "Manage your IT support requests by logging into the IT support portal and tracking the status of your open and closed requests."},
+                {"question": "How do I request access to new IT tools?", "answer": "Request access to new IT tools by filling out the access request form on the IT support portal and providing necessary approvals."},
+                {"question": "How do I configure security settings for remote work?", "answer": "Configure security settings for remote work by following the guidelines provided by IT support and using approved security solutions."},
+                {"question": "What should I do if I encounter an issue with company hardware?", "answer": "Report issues with company hardware to IT support with details about the hardware problem and follow their instructions for repair or replacement."},
+                {"question": "How do I request technical assistance for software issues?", "answer": "Request technical assistance for software issues by submitting a support request through the IT support portal and providing details about the issue."},
+                {"question": "How do I handle issues with company network security?", "answer": "Report issues with company network security to IT support and follow their instructions for resolution and investigation."},
+                {"question": "How do I set up and configure a company-approved backup solution?", "answer": "Set up and configure a company-approved backup solution by following the installation and configuration guide provided by IT support."},
+                {"question": "What should I do if I encounter a problem with company applications?", "answer": "Report problems with company applications to IT support and provide details about the issue for prompt resolution."},
+                {"question": "How do I request additional IT support for an event?", "answer": "Request additional IT support for an event by submitting a request through the IT support portal with event details and requirements."},
+                {"question": "How do I manage IT support access permissions?", "answer": "Manage IT support access permissions by logging into the IT support portal and updating your permissions or contacting IT support for assistance."},
+                {"question": "How do I handle issues with company-provided software?", "answer": "Handle issues with company-provided software by reporting the problem to IT support and providing details about the issue for resolution."},
+                {"question": "What is the policy on using personal devices for work purposes?", "answer": "The use of personal devices for work purposes is governed by the company's IT policy. Refer to the policy document for guidelines and procedures."},
+                {"question": "How do I configure company-approved security protocols?", "answer": "Configure company-approved security protocols by following the guidelines provided by IT support and using approved security solutions."},
+                {"question": "How do I report issues with company-provided IT services?", "answer": "Report issues with company-provided IT services to IT support with details about the problem and follow their instructions for resolution."},
+                {"question": "What should I do if I encounter a problem with my IT support account?", "answer": "Report problems with your IT support account to IT support and provide details about the issue for assistance."},
+                {"question": "How do I request additional IT equipment for a project?", "answer": "Request additional IT equipment for a project by filling out the equipment request form on the IT support portal and providing necessary approvals."},
+                {"question": "How do I access IT support resources for troubleshooting?", "answer": "Access IT support resources for troubleshooting through the IT support portal or contact IT support for assistance."},
+                {"question": "How do I manage my IT support tickets and requests?", "answer": "Manage your IT support tickets and requests by logging into the IT support portal and tracking the status of your open and closed tickets."},
+                {"question": "How do I handle issues with company-provided IT infrastructure?", "answer": "Report issues with company-provided IT infrastructure to IT support with details about the problem and follow their instructions for resolution."}
+                    
+            ]
+        },
+        {
+            "category": "Company Events",
+            "entries": [
+                {"question": "How can I find out about upcoming company events?", "answer": "Upcoming company events are listed on the company intranet under the 'Events' section. Check regularly for updates."},
+                {"question": "What is the procedure for registering for a company event?", "answer": "Register for a company event by filling out the registration form on the event page on the company intranet."},
+                {"question": "How do I request time off to attend a company event?", "answer": "Request time off to attend a company event by submitting a leave request through the HR portal, mentioning the event details."},
+                {"question": "What should I do if I need to cancel my registration for an event?", "answer": "Cancel your registration by visiting the event page on the intranet and selecting the 'Cancel Registration' option."},
+                {"question": "Where can I find the schedule for a company conference?", "answer": "Find the conference schedule on the event page on the company intranet or contact the event organizer for details."},
+                {"question": "How do I volunteer for a company event?", "answer": "Volunteer for a company event by contacting the event organizer or filling out the volunteer form available on the company intranet."},
+                {"question": "What is the procedure for submitting a proposal for a company event?", "answer": "Submit a proposal for a company event by filling out the event proposal form on the company intranet and providing necessary details."},
+                {"question": "How do I get involved in organizing a company event?", "answer": "Get involved in organizing a company event by contacting the event planning team or joining the event committee through the company intranet."},
+                {"question": "What should I do if I have dietary restrictions for a company event?", "answer": "Notify the event organizer of your dietary restrictions by providing details on the registration form or contacting the event team directly."},
+                {"question": "How can I provide feedback on a company event?", "answer": "Provide feedback on a company event by filling out the feedback form available on the event page on the company intranet."},
+                {"question": "How do I access recordings or materials from a company event?", "answer": "Access recordings or materials from a company event through the event page on the intranet or contact the event organizer for access."},
+                {"question": "What is the policy on bringing guests to company events?", "answer": "The policy on bringing guests to company events varies by event. Check the event details on the intranet or contact the event organizer for guidelines."},
+                {"question": "How do I find out about the dress code for a company event?", "answer": "Find out about the dress code for a company event by checking the event details on the company intranet or contacting the event organizer."},
+                {"question": "What should I do if I encounter an issue during a company event?", "answer": "Report any issues during a company event to the event coordinator or contact the event support team for assistance."},
+                {"question": "How do I request special accommodations for a company event?", "answer": "Request special accommodations by contacting the event organizer and providing details about your needs ahead of the event."},
+                {"question": "How do I get updates about event changes or cancellations?", "answer": "Receive updates about event changes or cancellations through the company intranet or by subscribing to event notifications."},
+                {"question": "How can I find out who will be speaking at a company event?", "answer": "Find out the list of speakers for a company event on the event page on the company intranet or contact the event organizer for details."},
+                {"question": "How do I access the venue map for a company event?", "answer": "Access the venue map for a company event through the event page on the intranet or contact the event organizer for a copy."},
+                {"question": "What is the procedure for submitting an event request for a department?", "answer": "Submit an event request for a department by filling out the event request form on the company intranet and providing necessary details."},
+                {"question": "How do I check if an event is open to all employees?", "answer": "Check if an event is open to all employees by reviewing the event details on the company intranet or contacting the event organizer."},
+                {"question": "How can I find out about networking opportunities at a company event?", "answer": "Find out about networking opportunities at a company event by checking the event agenda or contacting the event organizer for details."},
+                {"question": "What should I do if I have an issue with event registration?", "answer": "Contact the event registration support team or the event organizer for assistance with registration issues."},
+                {"question": "How do I find out about event sponsorship opportunities?", "answer": "Find out about event sponsorship opportunities by contacting the event organizing team or checking the event sponsorship information on the intranet."},
+                {"question": "What is the policy on event photography and recording?", "answer": "The policy on event photography and recording varies by event. Check the event details on the company intranet or contact the event organizer for guidelines."},
+                {"question": "How do I access transportation arrangements for a company event?", "answer": "Access transportation arrangements for a company event by checking the event details on the intranet or contacting the event organizer for information."},
+                {"question": "How do I find out about post-event activities?", "answer": "Find out about post-event activities by reviewing the event agenda on the company intranet or contacting the event organizer for details."},
+                {"question": "What should I do if I lose something during a company event?", "answer": "Report lost items to the event coordinator or check with the lost and found department at the event venue."},
+                {"question": "How can I view photos or videos from a company event?", "answer": "View photos or videos from a company event through the event page on the company intranet or contact the event organizer for access."},
+                {"question": "What is the procedure for requesting a guest speaker for an event?", "answer": "Request a guest speaker for an event by submitting a request through the event proposal form on the company intranet."},
+                {"question": "How do I find out about team-building activities at a company event?", "answer": "Find out about team-building activities at a company event by reviewing the event agenda on the company intranet or contacting the event organizer."},
+                {"question": "What should I do if I have a suggestion for a future company event?", "answer": "Submit your suggestion for a future company event through the feedback form on the company intranet or contact the event planning team."},
+                {"question": "How do I access event registration confirmation?", "answer": "Access your event registration confirmation by checking your email for a confirmation message or logging into the event registration page on the intranet."},
+                {"question": "How do I handle a conflict with the event schedule?", "answer": "Handle conflicts with the event schedule by contacting the event organizer and providing details about your availability."},
+                {"question": "How can I find out about volunteer opportunities for upcoming events?", "answer": "Find out about volunteer opportunities for upcoming events by contacting the event organizing team or checking the volunteer section on the intranet."},
+                {"question": "How do I submit a request for event catering?", "answer": "Submit a request for event catering by contacting the event planning team or filling out the catering request form on the company intranet."},
+                {"question": "What is the procedure for booking event venues?", "answer": "Book event venues by submitting a venue booking request through the event planning team or the venue booking system on the company intranet."},
+                {"question": "How do I access event-related documents and materials?", "answer": "Access event-related documents and materials through the event page on the company intranet or contact the event organizer for access."},
+                {"question": "What should I do if I need special assistance during an event?", "answer": "Request special assistance by contacting the event organizer and providing details about your needs ahead of the event."},
+                {"question": "How do I find out about event feedback and surveys?", "answer": "Find out about event feedback and surveys by checking the event page on the intranet or contacting the event organizer for details."},
+                {"question": "What is the policy on event cancellations and refunds?", "answer": "The policy on event cancellations and refunds varies by event. Check the event details on the intranet or contact the event organizer for guidelines."},
+                {"question": "How can I get involved in planning company events?", "answer": "Get involved in planning company events by contacting the event planning team or joining the event committee through the company intranet."},
+                {"question": "How do I request a special session or workshop during an event?", "answer": "Request a special session or workshop by submitting a proposal through the event planning team or the company intranet."}
+                    
+            ]
+        },
+        {
+            "category": "Organizational Matters",
+            "entries": [
+                {"question": "What is the company's mission statement?", "answer": "The company's mission is to deliver innovative solutions that exceed customer expectations and drive growth in the industry. For more details, refer to the company's mission statement on the intranet."},
+                {"question": "What are the company's core values?", "answer": "The company's core values include integrity, innovation, customer focus, and teamwork. These values guide our actions and decisions."},
+                {"question": "How do I find information about the company's history?", "answer": "Information about the company's history can be found in the 'About Us' section on the company intranet or website."},
+                {"question": "What are the company's strategic goals?", "answer": "The company's strategic goals include expanding market share, enhancing product offerings, and improving operational efficiency. For a detailed overview, check the strategic plan available on the intranet."},
+                {"question": "Who are the members of the executive leadership team?", "answer": "The executive leadership team consists of the CEO, CFO, COO, and other senior executives. Their profiles are available on the company website."},
+                {"question": "How is the company structured?", "answer": "The company is structured into various departments including HR, IT, Finance, Marketing, and Operations. Each department handles specific functions and responsibilities."},
+                {"question": "What is the company's approach to sustainability?", "answer": "The company is committed to sustainability through initiatives like reducing carbon emissions, conserving resources, and supporting green practices. Details are available in the sustainability report on the intranet."},
+                {"question": "How can I access the company’s annual report?", "answer": "The company's annual report can be accessed on the investor relations section of the company website or through the intranet."},
+                {"question": "What is the company's policy on corporate social responsibility (CSR)?", "answer": "The company's CSR policy involves supporting community development, ethical practices, and environmental stewardship. More details are available in the CSR report on the intranet."},
+                {"question": "Where can I find the company's organizational chart?", "answer": "The company's organizational chart is available on the intranet under the 'Company Structure' section."},
+                {"question": "How do I get information about company-wide initiatives?", "answer": "Information about company-wide initiatives can be found in the 'Announcements' section on the intranet or by contacting the communications team."},
+                {"question": "What are the company’s policies on employee engagement?", "answer": "The company's policies on employee engagement include regular feedback mechanisms, employee surveys, and engagement programs. Details are available in the HR policies on the intranet."},
+                {"question": "How do I contact different departments within the company?", "answer": "Contact information for various departments is available in the company directory on the intranet."},
+                {"question": "What are the company's policies on diversity and inclusion?", "answer": "The company's diversity and inclusion policies promote equal opportunities, respect for all individuals, and a supportive work environment. Details are available in the D&I policy document on the intranet."},
+                {"question": "Where can I find information on the company’s financial performance?", "answer": "Information on the company’s financial performance is available in the financial reports section of the company website or intranet."},
+                {"question": "What is the company’s approach to employee health and safety?", "answer": "The company ensures employee health and safety through various programs, including workplace safety protocols, health screenings, and wellness initiatives. Details are available in the health and safety section on the intranet."},
+                {"question": "How do I get involved in company-sponsored community service activities?", "answer": "Get involved in company-sponsored community service activities by checking the events section on the intranet or contacting the CSR team."},
+                {"question": "What is the company's policy on employee relocation?", "answer": "The company's policy on employee relocation includes support for moving expenses, relocation allowances, and assistance with settling in. Details are available in the HR policies on the intranet."},
+                {"question": "Where can I find information about the company's leadership development programs?", "answer": "Information about leadership development programs can be found in the training and development section of the intranet."},
+                {"question": "What are the company’s policies on ethical behavior?", "answer": "The company’s policies on ethical behavior include guidelines on integrity, transparency, and compliance with laws and regulations. Details are available in the code of conduct document on the intranet."},
+                {"question": "How do I access information about the company's patents and intellectual property?", "answer": "Information about the company's patents and intellectual property can be accessed through the intellectual property section on the company intranet or by contacting the legal department."},
+                {"question": "What is the company's policy on internal communications?", "answer": "The company's policy on internal communications includes guidelines for effective communication, information sharing, and maintaining transparency. Details are available in the internal communications policy document on the intranet."},
+                {"question": "How do I find out about upcoming company-wide meetings?", "answer": "Information about upcoming company-wide meetings can be found in the calendar section of the intranet or through internal announcements."},
+                {"question": "What is the company's approach to innovation?", "answer": "The company encourages innovation through research and development, idea-sharing platforms, and support for creative solutions. Details are available in the innovation strategy document on the intranet."},
+                {"question": "How can I get information about the company's legal compliance practices?", "answer": "Information about the company’s legal compliance practices can be accessed through the legal department or the compliance section on the intranet."},
+                {"question": "Where can I find information on employee recognition programs?", "answer": "Information on employee recognition programs can be found in the recognition and rewards section of the intranet."},
+                {"question": "What are the company's policies on work-life balance?", "answer": "The company's policies on work-life balance include flexible working hours, remote work options, and wellness programs. Details are available in the HR policies on the intranet."},
+                {"question": "How do I access information about company-sponsored training programs?", "answer": "Access information about company-sponsored training programs through the training and development section of the intranet or by contacting the HR department."},
+                {"question": "What is the company's policy on employee feedback and suggestions?", "answer": "The company's policy on employee feedback and suggestions includes mechanisms for submitting feedback, regular surveys, and review processes. Details are available in the HR policies on the intranet."},
+                {"question": "Where can I find information about company mergers and acquisitions?", "answer": "Information about company mergers and acquisitions can be accessed through the investor relations section of the company website or intranet."},
+                {"question": "How do I find out about the company’s risk management strategies?", "answer": "Information about the company’s risk management strategies can be found in the risk management section of the intranet or by contacting the risk management team."},
+                {"question": "What is the company's policy on workplace harassment?", "answer": "The company's policy on workplace harassment includes procedures for reporting harassment, investigation processes, and support for affected individuals. Details are available in the HR policies on the intranet."},
+                {"question": "How do I get information about company-sponsored wellness programs?", "answer": "Information about company-sponsored wellness programs can be accessed through the wellness section of the intranet or by contacting the HR department."},
+                {"question": "What are the company's policies on employee use of social media?", "answer": "The company's policies on employee use of social media include guidelines for professional conduct, privacy, and compliance with company standards. Details are available in the social media policy document on the intranet."},
+                {"question": "How do I access information about the company's international operations?", "answer": "Information about the company's international operations can be found in the global operations section of the intranet or by contacting the international operations team."},
+                {"question": "What is the company’s policy on employee confidentiality?", "answer": "The company’s policy on employee confidentiality includes guidelines for handling confidential information, non-disclosure agreements, and data protection. Details are available in the confidentiality policy document on the intranet."},
+                {"question": "How can I find out about company-sponsored events and activities?", "answer": "Find out about company-sponsored events and activities through the events section of the intranet or by contacting the events team."},
+                {"question": "What is the company's policy on professional development?", "answer": "The company's policy on professional development includes support for continuing education, certifications, and career growth opportunities. Details are available in the HR policies on the intranet."},
+                {"question": "How do I access the company's strategic plan?", "answer": "The company's strategic plan can be accessed through the strategic planning section of the intranet or by contacting the strategic planning team."},
+                {"question": "What are the company's policies on employee travel?", "answer": "The company's policies on employee travel include guidelines for booking, expense reporting, and travel allowances. Details are available in the travel policy document on the intranet."},
+                {"question": "How can I find out about the company's employee assistance programs (EAP)?", "answer": "Find out about the company's employee assistance programs (EAP) through the HR section of the intranet or by contacting the HR department."},
+                {"question": "What is the company's approach to corporate governance?", "answer": "The company’s approach to corporate governance includes adherence to legal requirements, ethical standards, and best practices. Details are available in the corporate governance section of the intranet."},
+                {"question": "How do I access information about company’s employee benefits?", "answer": "Information about the company’s employee benefits can be found in the benefits section of the intranet or by contacting the HR department."},
+                {"question": "What are the company's policies on employee performance evaluations?", "answer": "The company’s policies on employee performance evaluations include procedures for setting objectives, conducting reviews, and providing feedback. Details are available in the performance management section of the intranet."},
+                {"question": "How can I access information about the company’s leadership team?", "answer": "Information about the company’s leadership team can be accessed through the leadership section of the company website or intranet."},
+                {"question": "What are the company's policies on remote work?", "answer": "The company's policies on remote work include guidelines for eligibility, expectations, and technology requirements. Details are available in the remote work policy document on the intranet."},
+                {"question": "How do I find information about the company's data protection practices?", "answer": "Information about the company's data protection practices can be found in the data protection section of the intranet or by contacting the data protection officer."},
+                {"question": "What is the company’s policy on employee grievance redressal?", "answer": "The company’s policy on employee grievance redressal includes procedures for raising grievances, investigation processes, and resolution mechanisms. Details are available in the grievance redressal policy document on the intranet."},
+                {"question": "How do I access information about company’s business continuity plans?", "answer": "Information about the company’s business continuity plans can be accessed through the business continuity section of the intranet or by contacting the business continuity team."},
+                {"question": "What are the company’s policies on employee compensation?", "answer": "The company’s policies on employee compensation include guidelines for salary structure, bonuses, and benefits. Details are available in the compensation policy document on the intranet."},
+                {"question": "How can I get involved in company’s innovation initiatives?", "answer": "Get involved in the company’s innovation initiatives by participating in innovation programs, submitting ideas through the idea management system, or joining innovation teams."},
+                {"question": "What is the company’s policy on employee recognition and rewards?", "answer": "The company’s policy on employee recognition and rewards includes criteria for awards, recognition programs, and reward mechanisms. Details are available in the recognition policy document on the intranet."},
+                {"question": "How do I access information about company’s project management practices?", "answer": "Information about the company’s project management practices can be found in the project management section of the intranet or by contacting the project management office."},
+                {"question": "What are the company's policies on employee professional memberships?", "answer": "The company's policies on employee professional memberships include guidelines for reimbursement, eligibility, and membership benefits. Details are available in the HR policies on the intranet."},
+                {"question": "How can I find information about the company’s stakeholder engagement practices?", "answer": "Find information about the company’s stakeholder engagement practices in the stakeholder engagement section of the intranet or by contacting the communications team."},
+                {"question": "What is the company’s approach to managing organizational change?", "answer": "The company’s approach to managing organizational change includes change management processes, communication strategies, and support mechanisms. Details are available in the change management section of the intranet."},
+                {"question": "How do I access information about company’s internal audit practices?", "answer": "Information about the company’s internal audit practices can be found in the internal audit section of the intranet or by contacting the internal audit team."},
+                {"question": "What are the company’s policies on employee use of company resources?", "answer": "The company’s policies on employee use of company resources include guidelines for appropriate use, resource allocation, and accountability. Details are available in the company resources policy document on the intranet."},
+                {"question": "How can I find out about the company’s approach to customer satisfaction?", "answer": "Find out about the company’s approach to customer satisfaction in the customer satisfaction section of the intranet or by contacting the customer service team."},
+                {"question": "What is the company’s policy on employee involvement in company committees?", "answer": "The company’s policy on employee involvement in company committees includes guidelines for committee membership, roles, and responsibilities. Details are available in the committee policy document on the intranet."},
+                {"question": "How do I access information about the company’s external communications practices?", "answer": "Information about the company’s external communications practices can be found in the external communications section of the intranet or by contacting the communications team."},
+                {"question": "What are the company’s policies on employee engagement in decision-making?", "answer": "The company’s policies on employee engagement in decision-making include mechanisms for input, feedback, and involvement in key decisions. Details are available in the decision-making policy document on the intranet."},
+                {"question": "How can I find information about the company’s crisis management strategies?", "answer": "Find information about the company’s crisis management strategies in the crisis management section of the intranet or by contacting the crisis management team."},
+                {"question": "What is the company’s approach to fostering innovation?", "answer": "The company fosters innovation through dedicated programs, support for research and development, and an open environment for new ideas. Details are available in the innovation strategy document on the intranet."},
+                {"question": "How do I access information about the company’s employee satisfaction surveys?", "answer": "Information about the company’s employee satisfaction surveys can be found in the employee satisfaction section of the intranet or by contacting the HR department."},
+                {"question": "What are the company's policies on employee sabbaticals?", "answer": "The company's policies on employee sabbaticals include eligibility criteria, application processes, and duration. Details are available in the sabbatical policy document on the intranet."},
+                {"question": "How do I find information about the company’s research and development initiatives?", "answer": "Find information about the company’s research and development initiatives in the R&D section of the intranet or by contacting the R&D team."},
+                {"question": "What is the company’s approach to managing organizational performance?", "answer": "The company manages organizational performance through performance metrics, strategic goals, and regular evaluations. Details are available in the performance management section of the intranet."},
+                {"question": "How can I access information about the company’s employee onboarding process?", "answer": "Information about the company’s employee onboarding process can be found in the onboarding section of the intranet or by contacting the HR department."},
+                {"question": "What are the company’s policies on employee time-off requests?", "answer": "The company’s policies on employee time-off requests include procedures for requesting time off, approval processes, and documentation requirements. Details are available in the time-off policy document on the intranet."},
+                {"question": "How do I find information about the company’s business ethics practices?", "answer": "Find information about the company’s business ethics practices in the ethics section of the intranet or by contacting the ethics team."},
+                {"question": "What is the company’s policy on employee participation in external conferences?", "answer": "The company’s policy on employee participation in external conferences includes guidelines for attendance, reimbursement, and representation. Details are available in the conference policy document on the intranet."},
+                {"question": "How do I access information about the company’s employee performance metrics?", "answer": "Information about the company’s employee performance metrics can be found in the performance management section of the intranet or by contacting the HR department."},
+                {"question": "What are the company’s policies on employee involvement in industry forums?", "answer": "The company’s policies on employee involvement in industry forums include guidelines for participation, representation, and reporting. Details are available in the industry forums policy document on the intranet."},
+                {"question": "How can I find out about the company’s approach to employee career progression?", "answer": "Find out about the company’s approach to employee career progression in the career development section of the intranet or by contacting the HR department."},
+                {"question": "What is the company’s policy on employee involvement in company-sponsored research?", "answer": "The company’s policy on employee involvement in company-sponsored research includes guidelines for participation, funding, and reporting. Details are available in the research policy document on the intranet."},
+                {"question": "How do I access information about the company’s corporate social responsibility initiatives?", "answer": "Information about the company’s corporate social responsibility initiatives can be found in the CSR section of the intranet or by contacting the CSR team."},
+                {"question": "What are the company’s policies on employee use of personal devices?", "answer": "The company’s policies on employee use of personal devices include guidelines for security, acceptable use, and data protection. Details are available in the personal devices policy document on the intranet."},
+                {"question": "How do I find information about the company’s internal communication tools?", "answer": "Find information about the company’s internal communication tools in the communication tools section of the intranet or by contacting the IT department."},
+                {"question": "What is the company’s approach to managing operational risks?", "answer": "The company manages operational risks through risk assessments, mitigation strategies, and monitoring processes. Details are available in the risk management section of the intranet."},
+                {"question": "How can I access information about the company’s employee retirement plans?", "answer": "Information about the company’s employee retirement plans can be found in the benefits section of the intranet or by contacting the HR department."},
+                {"question": "What are the company’s policies on employee volunteerism?", "answer": "The company’s policies on employee volunteerism include guidelines for participation, support, and recognition. Details are available in the volunteerism policy document on the intranet."},
+                {"question": "How do I find out about the company’s approach to managing employee performance issues?", "answer": "Find out about the company’s approach to managing employee performance issues in the performance management section of the intranet or by contacting the HR department."},
+                {"question": "What is the company’s policy on employee use of company vehicles?", "answer": "The company’s policy on employee use of company vehicles includes guidelines for vehicle use, maintenance, and reimbursement. Details are available in the vehicle policy document on the intranet."},
+                {"question": "How can I access information about the company’s employee feedback mechanisms?", "answer": "Information about the company’s employee feedback mechanisms can be found in the feedback section of the intranet or by contacting the HR department."},
+                {"question": "What are the company’s policies on employee attendance and punctuality?", "answer": "The company’s policies on employee attendance and punctuality include guidelines for reporting absences, tardiness, and related procedures. Details are available in the attendance policy document on the intranet."},
+                {"question": "How do I find information about the company’s employee referral program?", "answer": "Find information about the company’s employee referral program in the recruitment section of the intranet or by contacting the HR department."},
+                {"question": "What is the company’s approach to managing organizational culture?", "answer": "The company manages organizational culture through initiatives that promote core values, employee engagement, and a positive work environment. Details are available in the organizational culture section of the intranet."},
+                {"question": "How do I access information about the company’s employee wellness programs?", "answer": "Information about the company’s employee wellness programs can be found in the wellness section of the intranet or by contacting the HR department."},
+                {"question": "What are the company’s policies on employee career development opportunities?", "answer": "The company’s policies on employee career development opportunities include guidelines for training, mentoring, and advancement. Details are available in the career development section of the intranet."},
+                {"question": "How can I find out about the company’s approach to employee job satisfaction?", "answer": "Find out about the company’s approach to employee job satisfaction in the employee satisfaction section of the intranet or by contacting the HR department."},
+                {"question": "What is the company’s policy on employee involvement in strategic planning?", "answer": "The company’s policy on employee involvement in strategic planning includes guidelines for participation, feedback, and contribution. Details are available in the strategic planning section of the intranet."},
+                {"question": "How do I access information about the company’s approach to managing organizational change?", "answer": "Information about the company’s approach to managing organizational change can be found in the change management section of the intranet or by contacting the change management team."},
+                {"question": "What are the company’s policies on employee professional growth?", "answer": "The company’s policies on employee professional growth include guidelines for skill development, career progression, and learning opportunities. Details are available in the professional growth section of the intranet."},
+                {"question": "How do I find out about the company’s approach to managing employee stress?", "answer": "Find out about the company’s approach to managing employee stress in the wellness and support section of the intranet or by contacting the HR department."},
+                {"question": "What is the company’s policy on employee involvement in industry research?", "answer": "The company’s policy on employee involvement in industry research includes guidelines for participation, funding, and publication. Details are available in the research policy document on the intranet."},
+                {"question": "How can I access information about the company’s employee satisfaction programs?", "answer": "Information about the company’s employee satisfaction programs can be found in the employee satisfaction section of the intranet or by contacting the HR department."},
+                {"question": "What are the company’s policies on employee performance improvement plans?", "answer": "The company’s policies on employee performance improvement plans include guidelines for creating, implementing, and monitoring performance plans. Details are available in the performance improvement section of the intranet."},
+                {"question": "How do I find out about the company’s approach to managing employee turnover?", "answer": "Find out about the company’s approach to managing employee turnover in the HR section of the intranet or by contacting the HR department."},
+                {"question": "What is the company’s policy on employee participation in company-sponsored training?", "answer": "The company’s policy on employee participation in company-sponsored training includes guidelines for eligibility, registration, and funding. Details are available in the training policy document on the intranet."},
+                {"question": "How can I access information about the company’s employee job rotation programs?", "answer": "Information about the company’s employee job rotation programs can be found in the career development section of the intranet or by contacting the HR department."},
+                {"question": "What are the company’s policies on employee compensation and benefits review?", "answer": "The company’s policies on employee compensation and benefits review include guidelines for annual reviews, adjustments, and communication. Details are available in the compensation policy document on the intranet."},
+                {"question": "How do I find out about the company’s approach to managing employee performance issues?", "answer": "Find out about the company’s approach to managing employee performance issues in the performance management section of the intranet or by contacting the HR department."},
+                {"question": "What is the company’s policy on employee involvement in company strategy?", "answer": "The company’s policy on employee involvement in company strategy includes guidelines for contributing ideas, feedback, and participating in strategic discussions. Details are available in the strategy section of the intranet."},
+                {"question": "How can I access information about the company’s employee mentorship programs?", "answer": "Information about the company’s employee mentorship programs can be found in the career development section of the intranet or by contacting the HR department."},
+                {"question": "What are the company’s policies on employee recognition and awards?", "answer": "The company’s policies on employee recognition and awards include guidelines for eligibility, nomination, and presentation. Details are available in the recognition policy document on the intranet."},
+                {"question": "How do I find out about the company’s approach to employee engagement?", "answer": "Find out about the company’s approach to employee engagement in the engagement section of the intranet or by contacting the HR department."},
+                {"question": "What is the company’s policy on employee participation in company research projects?", "answer": "The company’s policy on employee participation in company research projects includes guidelines for involvement, project selection, and reporting. Details are available in the research policy document on the intranet."},
+                {"question": "How can I access information about the company’s employee wellness programs?", "answer": "Information about the company’s employee wellness programs can be found in the wellness section of the intranet or by contacting the HR department."},
+                {"question": "What are the company’s policies on employee participation in professional associations?", "answer": "The company’s policies on employee participation in professional associations include guidelines for membership, reimbursement, and involvement. Details are available in the professional associations policy document on the intranet."},
+                {"question": "How do I find out about the company’s approach to managing employee workload?", "answer": "Find out about the company’s approach to managing employee workload in the workload management section of the intranet or by contacting the HR department."},
+                {"question": "What is the location of the company", "answer": "The company is located in Germany"}
+                    
+            ]
+
+    
+        },
+        {
+            "category": "General Questions",
+            "entries": [
+                {
+                    "question": "Hello",
+                    "answer": "Hi there! How can I assist you today?"
+                  },
+                  {
+                    "question": "Hi",
+                    "answer": "Hello! What can I help you with?"
+                  },
+                  {
+                    "question": "Good morning",
+                    "answer": "Good morning! How can I be of service today?"
+                  },
+                  {
+                    "question": "Good afternoon",
+                    "answer": "Good afternoon! How can I assist you?"
+                  },
+                  {
+                    "question": "Good evening",
+                    "answer": "Good evening! What can I help you with today?"
+                  },
+                  {
+                    "question": "How are you?",
+                    "answer": "I'm just a chatbot, but I'm here to help you. How can I assist you today?"
+                  },
+                  {
+                    "question": "What’s up?",
+                    "answer": "Not much, just here to help you with your queries. What can I do for you?"
+                  },
+                  {
+                    "question": "How’s it going?",
+                    "answer": "Everything’s running smoothly. How can I assist you today?"
+                  },
+                  {
+                    "question": "What’s new?",
+                    "answer": "I’m always updated to help you better. What do you need assistance with?"
+                  },
+                  {
+                    "question": "Goodbye",
+                    "answer": "Goodbye! Have a great day. Feel free to return if you need any help."
+                  },
+                  {
+                    "question": "See you later",
+                    "answer": "See you later! Don't hesitate to reach out if you have more questions."
+                  },
+                  {
+                    "question": "Bye",
+                    "answer": "Bye! Have a wonderful day!"
+                  },
+                  {
+                    "question": "Thank you",
+                    "answer": "You're welcome! If you need anything else, just ask."
+                  },
+                  {
+                    "question": "Thanks",
+                    "answer": "No problem! I'm here to help."
+                  },
+                  {
+                    "question": "You’re welcome",
+                    "answer": "I’m glad I could assist. If you need more help, just let me know."
+                  },
+                  {
+                    "question": "Please",
+                    "answer": "Sure, how can I assist you?"
+                  },
+                  {
+                    "question": "Can you help me?",
+                    "answer": "Absolutely! What do you need help with?"
+                  },
+                  {
+                    "question": "I need assistance",
+                    "answer": "I’m here to assist you. What can I do for you?"
+                  },
+                  {
+                    "question": "What is this chatbot?",
+                    "answer": "This chatbot is designed to assist employees with queries related to HR policies, IT support, company events, and other organizational matters."
+                  },
+                  {
+                    "question": "Who can use this chatbot?",
+                    "answer": "Any employee of the organization can use this chatbot to get information and support."
+                  },
+                  {
+                    "question": "What types of queries can I ask?",
+                    "answer": "You can ask questions related to HR policies, IT support, company events, and other organizational matters."
+                  },
+                  {
+                    "question": "How does this chatbot work?",
+                    "answer": "The chatbot uses deep learning and natural language processing to understand and respond to your queries."
+                  },
+                  {
+                    "question": "Is there a limit to how many questions I can ask?",
+                    "answer": "No, you can ask as many questions as you need."
+                  },
+                  {
+                    "question": "Can this chatbot handle multiple users at once?",
+                    "answer": "Yes, the chatbot is designed to handle multiple users in parallel."
+                  },
+                  {
+                    "question": "How fast will I get a response?",
+                    "answer": "The chatbot aims to provide responses within 5 seconds."
+                  },
+                  {
+                    "question": "Is my information secure?",
+                    "answer": "Yes, the chatbot uses 2FA (email ID type) for enhanced security."
+                  },
+                  {
+                    "question": "What if I encounter a problem?",
+                    "answer": "If you experience any issues, please contact IT support for further assistance."
+                  },
+                  {
+                    "question": "Can I upload documents for analysis?",
+                    "answer": "Yes, you can upload documents, and the chatbot will analyze and extract relevant information from them."
+                  },
+                  {
+                    "question": "How do I upload a document?",
+                    "answer": "You can upload a document through the provided interface, and the chatbot will process it for you."
+                  },
+                  {
+                    "question": "Can the chatbot summarize documents?",
+                    "answer": "Yes, the chatbot can summarize documents and extract key information."
+                  },
+                  {
+                    "question": "What kind of documents can I upload?",
+                    "answer": "You can upload any document relevant to organizational needs, typically around 8 to 10 pages for demonstration purposes."
+                  },
+                  {
+                    "question": "How do I get help with HR policies?",
+                    "answer": "You can ask specific questions related to HR policies, and the chatbot will provide the information you need."
+                  },
+                  {
+                    "question": "Can I get IT support through the chatbot?",
+                    "answer": "Yes, you can get assistance with IT-related issues by asking specific questions."
+                  },
+                  {
+                    "question": "How can I find out about company events?",
+                    "answer": "You can ask about upcoming company events, and the chatbot will provide relevant details."
+                  },
+                  {
+                    "question": "What is the chatbot’s response time?",
+                    "answer": "The chatbot aims to respond within 5 seconds for any query."
+                  },
+                  {
+                    "question": "How is bad language handled?",
+                    "answer": "The chatbot filters bad language based on a system-maintained dictionary."
+                  },
+                  {
+                    "question": "Can the chatbot handle poorly framed questions?",
+                    "answer": "Yes, the chatbot is designed to handle questions that may be poorly framed or grammatically incorrect."
+                  },
+                  {
+                    "question": "What should I do if I need more help?",
+                    "answer": "If you need more help, you can ask for additional assistance or contact support directly."
+                  },
+                  {
+                    "question": "What is this chatbot?",
+                    "answer": "This chatbot is designed to assist employees with queries related to HR policies, IT support, company events, and other organizational matters."
+                  },
+                  {
+                    "question": "Who can use this chatbot?",
+                    "answer": "Any employee of the organization can use this chatbot to get information and support."
+                  },
+                  {
+                    "question": "What types of queries can I ask?",
+                    "answer": "You can ask questions related to HR policies, IT support, company events, and other organizational matters."
+                  },
+                  {
+                    "question": "Is this chatbot available 24/7?",
+                    "answer": "Yes, the chatbot is available 24/7 to assist you with your queries."
+                  },
+                  {
+                    "question": "How do I access this chatbot?",
+                    "answer": "You can access the chatbot through the organization's internal portal or via a designated app."
+                  }
+                    
+            ]
+
+    
+        }
+    ]
+}
